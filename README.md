@@ -1,6 +1,6 @@
 # Welcome to the OpenMacBuild-GUI project!
-![OpenMacBuild 1.1.2](https://img.shields.io/badge/OpenMacBuild-1.1.2-green)
-[![GitHub forks](https://img.shields.io/badge/OpenMacBuild-1.1.3-green)](https://github.com/DmitriyyyyS/OpenMacBuild-GUI/blob/master/OpenMacBuild.zip)
+![OpenMacBuild 1.1.3](https://img.shields.io/badge/OpenMacBuild-1.1.3-green)
+[![GitHub forks](https://img.shields.io/badge/Download-program-yellow)](https://github.com/DmitriyyyyS/OpenMacBuild-GUI/blob/master/OpenMacBuild.zip)
 
 
 <img src="https://github.com/DmitriyyyyS/OpenMacBuild-GUI/blob/master/Other/Logo/logo_OpenMacBuild.png" width="212" height="212"/>
