@@ -1,5 +1,5 @@
 # Welcome to the OpenMacBuild-GUI project!
-![OpenMacBuild 1.1.3](https://img.shields.io/badge/OpenMacBuild-1.1.3-green)
+![OpenMacBuild 1.1.4](https://img.shields.io/badge/OpenMacBuild-1.1.4-green)
 [![GitHub forks](https://img.shields.io/badge/Download-program-yellow)](https://github.com/DmitriyyyyS/OpenMacBuild-GUI/releases)
 
 
