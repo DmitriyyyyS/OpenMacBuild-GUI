@@ -19,5 +19,5 @@ The entire list of files that the program at this moment can provide you, but th
 
 <img src="https://github.com/DmitriyyyyS/OpenMacBuild-GUI/blob/master/Other/Logo/6.png" width="325" height="573"/>
 
-Tested on macOS 10.15-10.11.x (Big Sur)
+Tested on macOS 10.15-12 (Big Sur)
 
